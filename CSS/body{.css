@@ -1,0 +1,31 @@
+body{
+background: rgb(237, 160, 160);
+}
+svg{
+width: 100%;
+    background: rgb(61, 55, 55);
+}
+img{
+align-content: center;
+align-self: center;
+
+
+
+}
+@media screen and (max-width: 800px) {
+    img{
+        align-content: center;
+        align-self: center;
+        width: 50%;
+        
+        
+        
+        }
+h1 {
+width: 100%;
+
+}
+svg{
+width: 100%;
+
+}}
